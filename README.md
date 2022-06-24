@@ -55,7 +55,7 @@ Example URL: [https://www.timeanddate.com/weather/india/chennai/ext](https://www
 
 [Week_2_Lecture_3_BBC_Location ID_Weather_Scraping.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_2_Lecture_3_BBC_Location_ID_Weather_Scraping.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At](https://colab.research.google.com/drive/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At](https://colab.research.google.com/drive/18OjJLjhXq9BOBfRorQ7yYWOTqBhVT-At)
 
 **Example API URL 👇**
 
@@ -71,7 +71,7 @@ https://locator-service.api.bbci.co.uk/locations?api_key=AGbFAKx58hyjQScCXIYrxuE
 
 [Week_2_Lecture_4_BBC_weather_scrape.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_2_Lecture_4_BBC_weather_scrape.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1WN-Iaf3uJ4APNIlOa95hqwOYXUC3Np__](https://colab.research.google.com/drive/1WN-Iaf3uJ4APNIlOa95hqwOYXUC3Np__)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1WN-Iaf3uJ4APNIlOa95hqwOYXUC3Np__](https://colab.research.google.com/drive/1WN-Iaf3uJ4APNIlOa95hqwOYXUC3Np__)
 
 **Example API URL 👇**
 
@@ -87,7 +87,7 @@ https://locator-service.api.bbci.co.uk/locations?api_key=AGbFAKx58hyjQScCXIYrxuE
 
 [Week_2_Lecture_5_Web_Scraping_IMDb.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_2_Lecture_5_Web_Scraping_IMDb.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1Kwi14Twb6cnPPu850dKuo1VtTctoBqG5](https://colab.research.google.com/drive/1Kwi14Twb6cnPPu850dKuo1VtTctoBqG5)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1Kwi14Twb6cnPPu850dKuo1VtTctoBqG5](https://colab.research.google.com/drive/1Kwi14Twb6cnPPu850dKuo1VtTctoBqG5)
 
 ---
 
@@ -97,7 +97,7 @@ https://locator-service.api.bbci.co.uk/locations?api_key=AGbFAKx58hyjQScCXIYrxuE
 
 [Week_2_Lecture_6_Geocoding_using_Nominatim.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_2_Lecture_6_Geocoding_using_Nominatim.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1cKOxglTK8aGoWMZfd2y5PoHo2DRXHF_z](https://colab.research.google.com/drive/1cKOxglTK8aGoWMZfd2y5PoHo2DRXHF_z)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1cKOxglTK8aGoWMZfd2y5PoHo2DRXHF_z](https://colab.research.google.com/drive/1cKOxglTK8aGoWMZfd2y5PoHo2DRXHF_z)
 
 ⚠️ **IMPORTANT NOTE** ⚠️
 
@@ -115,7 +115,7 @@ use your email ID instead of “myGeocoder” in Nominatim
 
 [Week_2_Lecture_7_Wikipedia_Library.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_2_Lecture_7_Wikipedia_Library.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1UZky5JdOn2oMYIkls23WefTaT8VinYyg](https://colab.research.google.com/drive/1UZky5JdOn2oMYIkls23WefTaT8VinYyg)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1UZky5JdOn2oMYIkls23WefTaT8VinYyg](https://colab.research.google.com/drive/1UZky5JdOn2oMYIkls23WefTaT8VinYyg)
 
 ---
 
@@ -125,7 +125,7 @@ use your email ID instead of “myGeocoder” in Nominatim
 
 [Week_2_Lecture_8_PDF_Scraping_Tabula.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_2_Lecture_8_PDF_Scraping_Tabula.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1mNhUTij7LdsjxgcfOKgfsmbFOI526y2t](https://colab.research.google.com/drive/1mNhUTij7LdsjxgcfOKgfsmbFOI526y2t)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1mNhUTij7LdsjxgcfOKgfsmbFOI526y2t](https://colab.research.google.com/drive/1mNhUTij7LdsjxgcfOKgfsmbFOI526y2t)
 
 ---
 
@@ -220,7 +220,7 @@ use your email ID instead of “myGeocoder” in Nominatim
 
 [Week_3_Lecture_1_election.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_3_Lecture_1_election.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1SP8yVxzmofQO48-yXF3rujqWk2iM0KSl](https://colab.research.google.com/drive/1SP8yVxzmofQO48-yXF3rujqWk2iM0KSl)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1SP8yVxzmofQO48-yXF3rujqWk2iM0KSl](https://colab.research.google.com/drive/1SP8yVxzmofQO48-yXF3rujqWk2iM0KSl)
 
 ---
 
@@ -245,7 +245,7 @@ use your email ID instead of “myGeocoder” in Nominatim
 
 [Week_3_Lecture_6_pandas_profile.ipynb](ROE%201%204e1e2f1090994424a80c23e239c15c98/Week_3_Lecture_6_pandas_profile.ipynb)
 
-**Google Colab URL:** [https://colab.research.google.com/drive/1xgbs_xJe8hQVV6ot9Qsk5gnQLKsiwudW?usp=sharing](https://colab.research.google.com/drive/1xgbs_xJe8hQVV6ot9Qsk5gnQLKsiwudW?usp=sharing)
+**Google Colab URL:** 👉 [https://colab.research.google.com/drive/1xgbs_xJe8hQVV6ot9Qsk5gnQLKsiwudW?usp=sharing](https://colab.research.google.com/drive/1xgbs_xJe8hQVV6ot9Qsk5gnQLKsiwudW?usp=sharing)
 
 ---
 
