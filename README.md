@@ -177,14 +177,10 @@ use your email ID instead of “myGeocoder” in Nominatim
     
     ```python
     from bs4 import BeautifulSoup as bs
-    
-     import requests
-    
-     r = requests.get("https://www.espn.in/football/scoreboard")
-    
-     soup = bs(r.content)
-    
-     contents = soup.prettify()
+    import requests
+    r = requests.get("https://www.espn.in/football/scoreboard")
+    soup = bs(r.content)
+    contents = soup.prettify()
     ```
     
 - A piece of code to scrape the following HTML snippet
@@ -264,7 +260,9 @@ use your email ID instead of “myGeocoder” in Nominatim
 - Code snippet to save a `.jpg` file as a `.png`
     
     ```python
-    from PIL import Image; i = Image.open(‘hello.jpg’); i.save(‘hello.png’)
+    from PIL import Image
+    i = Image.open(‘hello.jpg’)
+    i.save(‘hello.png’)
     ```
     
 - Code snippet in the pillow library to blur images
